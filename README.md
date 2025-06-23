@@ -8,7 +8,7 @@ Therefore, we propose a novel method called EvDetMAV to fully exploit the salien
 a novel dataset called EventMAV for the community. This is the first event-based MAV detection dataset containing multiple types of MAVs and diverse environments.
 
 ### Framework
-
+![Framework](Framework.PNG)
 ### Dataset
 
 ### Code
