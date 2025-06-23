@@ -1,7 +1,7 @@
 <div align="center">
   <h1>EvDetMAV: Generalized MAV Detection from Moving Event Cameras</h1>
 </div>
-This is the repository for the paper "EvDetMAV: Generalized MAV Detection from Moving Event Cameras". This paper has been officially accepted by ***IEEE Robotics and Automation Letters***.
+This is the repository for the paper "EvDetMAV: Generalized MAV Detection from Moving Event Cameras". This paper has been officially accepted by **IEEE Robotics and Automation Letters**.
 
 This paper focuses on detecting different types of micro aerial vehicles (MAVs) from event cameras because their fast-rotating propellers have common and unique features in the event stream. 
 Therefore, we propose a novel method called EvDetMAV to fully exploit the saliency and spatio-temporal features of the propellers from the point-based event stream. Besides, we also establish
