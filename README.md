@@ -12,7 +12,7 @@ a novel dataset called EventMAV for the community. This is the first event-based
 ![Framework](Framework.PNG)
 ### Dataset
 ![Dataset](Dataset.PNG)
-The Phantom subset can be downloaded at:[EventMAV](https://pan.baidu.com/s/1OUGuZNKM5nJNiG96Ow2zYg?pwd=yk8i)Password: yk8i
+The dataset can be downloaded at:[EventMAV](https://pan.baidu.com/s/1OUGuZNKM5nJNiG96Ow2zYg?pwd=yk8i)Password: yk8i
 ### Code
 
 ### Contact
