@@ -7,6 +7,7 @@ This paper focuses on detecting different types of micro aerial vehicles (MAVs) 
 Therefore, we propose a novel method called EvDetMAV to fully exploit the saliency and spatio-temporal features of the propellers from the point-based event stream. Besides, we also establish
 a novel dataset called EventMAV for the community. This is the first event-based MAV detection dataset containing multiple types of MAVs and diverse environments.
 <br><br>
+
 ### Framework
 ![Framework](Framework.PNG)
 ### Dataset
